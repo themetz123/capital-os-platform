@@ -15,16 +15,10 @@ export default function Hero() {
         </p>
 
         <div className="flex flex-col md:flex-row gap-4 justify-center mb-12">
-          
-            href="#pricing"
-            className="inline-block bg-[#ffb800] text-black px-8 py-4 font-bold text-lg hover:bg-opacity-90 transition"
-          >
+          <a href="#pricing" className="inline-block bg-[#ffb800] text-black px-8 py-4 font-bold text-lg hover:bg-opacity-90 transition">
             JOIN PLATFORM ($999/YEAR)
           </a>
-          
-            href="#apply"
-            className="inline-block border-2 border-[#ffb800] text-[#ffb800] px-8 py-4 font-bold text-lg hover:bg-[#ffb800] hover:text-black transition"
-          >
+          <a href="#apply" className="inline-block border-2 border-[#ffb800] text-[#ffb800] px-8 py-4 font-bold text-lg hover:bg-[#ffb800] hover:text-black transition">
             APPLY FOR PREMIUM
           </a>
         </div>
