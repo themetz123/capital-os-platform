@@ -10,10 +10,7 @@ export default function Hero() {
           You're not just getting tools. You're getting a team that keeps you from making $1M mistakes.
         </p>
         
-        
-          href="#pricing"
-          className="inline-block bg-[#ffb800] text-black px-8 py-4 font-bold text-lg hover:bg-opacity-90 transition border-2 border-[#ffb800]"
-        >
+        <a href="#pricing" className="inline-block bg-[#ffb800] text-black px-8 py-4 font-bold text-lg hover:bg-opacity-90 transition border-2 border-[#ffb800]">
           GET STARTED NOW
         </a>
       </div>
