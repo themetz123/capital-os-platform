@@ -1,8 +1,10 @@
 'use client';
 
 import Hero from '@/components/Hero';
+import ThreeCees from '@/components/ThreeCees';
 import Comparison from '@/components/Comparison';
-import MathSection from '@/components/MathSection';
+import Features from '@/components/Features';
+import NotPlacementAgents from '@/components/NotPlacementAgents';
 import Pricing from '@/components/Pricing';
 import FAQ from '@/components/FAQ';
 import Footer from '@/components/Footer';
@@ -11,8 +13,10 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-black text-white">
       <Hero />
+      <ThreeCees />
       <Comparison />
-      <MathSection />
+      <Features />
+      <NotPlacementAgents />
       <Pricing />
       <FAQ />
       <Footer />
