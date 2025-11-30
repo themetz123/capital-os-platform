@@ -3,92 +3,88 @@ export default function Features() {
     <section className="bg-gradient-to-b from-black to-[#1a1a1a] py-20 px-4">
       <div className="max-w-6xl mx-auto">
         <h2 className="text-4xl md:text-5xl font-bold text-center mb-4 text-white">
-          The Platform System
+          The Perpetual Formation Operating System
         </h2>
-        <p className="text-center text-[#ffb800] text-lg mb-16">
-          Built on efficiency. Powered by execution.
+        <p className="text-center text-[#ffb800] text-lg mb-4">
+          This is just the tip of the iceberg.
+        </p>
+        <p className="text-center text-gray-400 text-lg mb-16">
+          Capital OS Premium is a complete, 70-page playbook engineered for Fund II-IV GPs who are deploying while raising.
         </p>
 
         <div className="space-y-8">
-          {/* Office Hours */}
+          {/* LP Website Tracking */}
           <div className="bg-gray-900 rounded p-8 border-l-4 border-[#ffb800]">
-            <h3 className="text-2xl font-bold text-[#ffb800] mb-4">Monday Office Hours (1 Hour/Week)</h3>
+            <h3 className="text-2xl font-bold text-[#ffb800] mb-4">Automatic LP Presence (While You Deploy)</h3>
             <p className="text-gray-300 mb-4">
-              Live every Monday. 142+ GPs solving capital formation in real-time. Ask anything. Get real feedback from operators who've done it.
-            </p>
-            <p className="text-gray-400 text-sm italic">
-              **Unless your GP Velocity is green.** If you're hitting your capital formation targets, you've earned the right to skip. We respect execution over attendance.
-            </p>
-          </div>
-
-          {/* Video Library */}
-          <div className="bg-gray-900 rounded p-8 border-l-4 border-[#ffb800]">
-            <h3 className="text-2xl font-bold text-[#ffb800] mb-4">Complete Video Library</h3>
-            <p className="text-gray-300 mb-4">
-              Every office hours recording. Every webinar we've ever done. Watch at 2x speed. Learn from 142+ GPs without wasting your time.
+              Your website identifies LPs automatically. RB2B/Clearbit matches anonymous traffic to fund names. HubSpot tracks intent signals. n8n triggers immediate action: deal creation, Slack alerts, LP assignment.
             </p>
             <p className="text-gray-400 text-sm">
-              No filler. No corporate bullshit. Just GPs talking about capital formation.
+              Result: LPs experience you as constantly present and responsive—even though you're 100% focused on portfolio companies. They never know you're not thinking about Fund II. You are. Automatically.
             </p>
           </div>
 
-          {/* 750+ LP Database */}
+          {/* IC Intelligence */}
           <div className="bg-gray-900 rounded p-8 border-l-4 border-[#ffb800]">
-            <h3 className="text-2xl font-bold text-[#ffb800] mb-4">750+ Non-Anchor LP Database</h3>
+            <h3 className="text-2xl font-bold text-[#ffb800] mb-4">Investment Committee Intelligence</h3>
             <p className="text-gray-300 mb-4">
-              Export 10 at a time. All 750+ available. Segmented by stage, strategy, geography. No research. Just download and start dialing.
+              Map every LP's IC structure. Identify decision-makers, influence points, internal politics, and landmines. Get a multi-stage penetration plan: who to target first, what they care about, how to move past gatekeepers.
             </p>
             <p className="text-gray-400 text-sm">
-              This saves you 40+ hours of research per month.
+              Result: You move faster than competitors because you understand the buyer's psychology before the first call. You know who decides. You know what they fear. You know how to build consensus.
             </p>
           </div>
 
-          {/* Diagnostic Tools */}
+          {/* Three-Close Framework */}
           <div className="bg-gray-900 rounded p-8 border-l-4 border-[#ffb800]">
-            <h3 className="text-2xl font-bold text-[#ffb800] mb-4">Unlimited Diagnostic Tools</h3>
+            <h3 className="text-2xl font-bold text-[#ffb800] mb-4">Perpetual Close Framework (Not One Massive Sprint)</h3>
             <p className="text-gray-300 mb-4">
-              Run your fund through every diagnostic we've built. Find exactly where your velocity is leaking. CRM gaps? LP narrative issues? Fund economics? We surface it.
+              Close 1 (best terms) → Close 2 (standard terms) → Close 3 (oversubscription). Each close uses pressure architecture and social proof. You're always fundraising. Never sprinting. Continuous momentum.
             </p>
             <p className="text-gray-400 text-sm">
-              Unlimited runs. No limits. Fix it and move on.
+              Result: Fund II closes naturally during deployment instead of requiring a painful 18-month pause. LPs FOMO drives early closes. You control timing, not the other way around.
             </p>
           </div>
 
-          {/* AI Narrative Builder */}
+          {/* Data Room Automation */}
           <div className="bg-gray-900 rounded p-8 border-l-4 border-[#ffb800]">
-            <h3 className="text-2xl font-bold text-[#ffb800] mb-4">AI Narrative Builder</h3>
+            <h3 className="text-2xl font-bold text-[#ffb800] mb-4">Automated Data Room (Qualification Built In)</h3>
             <p className="text-gray-300 mb-4">
-              Tighten your story in minutes, not weeks. Make sure every LP email radiates alignment and conviction. One less thing to worry about.
-            </p>
-          </div>
-
-          {/* Discord Community */}
-          <div className="bg-gray-900 rounded p-8 border-l-4 border-[#ffb800]">
-            <h3 className="text-2xl font-bold text-[#ffb800] mb-4">Discord Community (142+ Real GPs)</h3>
-            <p className="text-gray-300 mb-4">
-              Active every day. Real problems. Real solutions. No corporate bullshit. You're surrounded by operators who get it.
+              SumSub verification gates. Information access correlates to commitment level and timing. LPs self-qualify through access tiers. Due diligence happens automatically. No manual triage.
             </p>
             <p className="text-gray-400 text-sm">
-              This alone is worth more than most consulting firms.
+              Result: Your team doesn't manage data rooms. The system does. Serious LPs get what they need. Time-wasters hit a wall. You save 200+ hours per fundraise.
             </p>
           </div>
 
-          {/* 13 Months Playbook */}
-          <div className="bg-gray-900 rounded p-8 border-l-4 border-[#ffb800]">
-            <h3 className="text-2xl font-bold text-[#ffb800] mb-4">13 Months of Capital Formation Playbook</h3>
+          {/* The Full Playbook */}
+          <div className="bg-[#4a5fff] bg-opacity-20 border border-[#4a5fff] rounded p-8">
+            <h3 className="text-2xl font-bold text-[#ffb800] mb-4">This Is Just the Beginning</h3>
             <p className="text-gray-300 mb-4">
-              Everything we've learned from 142+ GPs. VC, PE, fundless, first-time. Step by step. Week by week. Apply it immediately.
+              The full Capital OS Premium playbook includes:
             </p>
+            <ul className="space-y-2 text-gray-300 text-sm">
+              <li>✓ 70-page strategic playbook (complete methodology)</li>
+              <li>✓ LP penetration strategy templates for every major allocator type</li>
+              <li>✓ Pressure & punishment close architecture with scripting</li>
+              <li>✓ Investment Committee intelligence gathering framework</li>
+              <li>✓ Data room sequencing and qualification logic</li>
+              <li>✓ Live case studies (how we closed Fund II for 47+ GPs while they deployed)</li>
+              <li>✓ Weekly office hours + direct access to Capital OS team</li>
+              <li>✓ All 7 items execution roadmap + accountability tracking</li>
+            </ul>
           </div>
         </div>
 
-        <div className="mt-12 bg-[#4a5fff] bg-opacity-20 border border-[#4a5fff] rounded p-8 text-center">
-          <p className="text-white text-lg font-bold">
-            Every feature is designed to do one thing: respect your time.
-          </p>
-          <p className="text-gray-300 mt-4">
-            Less research. Less guessing. Less wasted effort. More execution.
-          </p>
+        <div className="mt-12 bg-gradient-to-r from-[#4a5fff] to-[#ffb800] rounded p-1">
+          <div className="bg-black rounded p-8 text-center">
+            <p className="text-white text-lg font-bold">
+              Premium isn't a service. It's a complete operating system for perpetual formation.
+            </p>
+            <p className="text-gray-300 mt-4">
+              Designed for Fund II-IV GPs who are deploying Fund I while raising Fund II. Built on data, psychology, and 142+ fund manager interviews.
+            </p>
+          </div>
         </div>
       </div>
     </section>
