@@ -1,6 +1,7 @@
 'use client';
 
 import Hero from '@/components/Hero';
+import LiveVelocityMetrics from '@/components/LiveVelocityMetrics';
 import TimeMatters from '@/components/TimeMatters';
 import ThreeCees from '@/components/ThreeCees';
 import Comparison from '@/components/Comparison';
@@ -14,6 +15,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-black text-white">
       <Hero />
+      <LiveVelocityMetrics />
       <TimeMatters />
       <ThreeCees />
       <Comparison />
